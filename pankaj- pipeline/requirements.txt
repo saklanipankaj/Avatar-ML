@@ -1,0 +1,3 @@
+pyyaml==5.1
+detectron2
+opencv-python-headless
