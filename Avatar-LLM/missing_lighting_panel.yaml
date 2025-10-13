@@ -1,0 +1,27 @@
+ missing_lighting_panel:
+    name: "Missing Lighting Panel"
+    directory: "./Missing-lighting-panel"
+    prompt: |
+      You are inspecting subway car ceiling lighting systems. Look carefully at the ceiling and 
+      identify if any rectangular lighting panels are MISSING from their mounting slots.
+      
+      DEFECT indicators:
+      - Small white rectangular panels visible in the ceiling (emergency/access panels exposed when lighting panels are missing)
+      - White rectangular openings or slots where light fixtures should be
+      - Gaps in the ceiling lighting pattern
+      - Any white rectangular panel that is NOT a fluorescent light strip
+
+      NON-DEFECT indicators:
+      - Only long fluorescent light strips visible on ceiling
+      - Continuous lighting without gaps
+      - No small white rectangular panels visible
+      
+      Instructions:
+      - Focus ONLY on the ceiling area
+      - Ignore other train components (handrails, doors, seats, etc.)
+      - Look specifically for rectangular lighting panel gaps/openings
+      - If you see ANY missing rectangular light panel, classify as 'DEFECT'
+      - Only classify as 'NON-DEFECT' if ALL lighting panels are present
+      
+      Output only the final verdict in the following format: 
+      {'verdict': 'defect'} or {'verdict': 'non-defect'}

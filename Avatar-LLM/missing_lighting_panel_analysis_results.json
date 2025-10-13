@@ -1,0 +1,82 @@
+{
+  "missing_lighting_panel1.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "missing_lighting_panel10.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "missing_lighting_panel2.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "missing_lighting_panel3.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "missing_lighting_panel4.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "missing_lighting_panel5.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "missing_lighting_panel6.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "missing_lighting_panel7.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "missing_lighting_panel8.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "missing_lighting_panel9.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_missing_lighting_panel1.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_missing_lighting_panel10.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_missing_lighting_panel2.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_missing_lighting_panel3.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_missing_lighting_panel4.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_missing_lighting_panel5.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_missing_lighting_panel6.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_missing_lighting_panel7.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_missing_lighting_panel8.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_missing_lighting_panel9.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  }
+}

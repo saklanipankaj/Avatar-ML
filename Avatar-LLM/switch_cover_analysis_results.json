@@ -1,0 +1,82 @@
+{
+  "not_opened_switch_cover1.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train door control panel area for an open switch cover on the ceiling.\n\nLooking at the image, I can see the ceiling area above the train doors. There is a square-shaped panel/cover visible on the ceiling. Upon examination, this square panel appears to be **closed** - I can see the outline of the square cover but it is in its proper closed position against the ceiling.\n\nThe switch cover with a key lock that should be monitored is present and appears to be in the closed position, not opened.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover10.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling that should be closed but might be opened.\n\nLooking at the ceiling of what appears to be a train car interior, I can see:\n- Fluorescent lighting panels\n- Air conditioning vents/ducts\n- Various ceiling-mounted equipment\n- Handrail straps hanging down\n- A digital display showing \"5B5 Transit\"\n\nExamining the ceiling carefully for a square switch cover with a key lock, I can see what appears to be a square panel or cover on the ceiling. However, from this image, I cannot clearly identify an opened switch cover. The visible ceiling panels and access points appear to be in their normal closed positions.\n\nI don't see any obvious signs of an opened switch cover - no gaps, no hanging panels, or exposed internal components that would indicate a cover is open.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover2.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling that should be closed.\n\nLooking at the ceiling area in the image, I can see:\n- Fluorescent lighting fixtures\n- Air conditioning vents/ducts\n- A square panel on the ceiling with what appears to be a keyhole\n- Green signage indicating emergency equipment\n\nExamining the square panel on the ceiling (visible in the upper right portion of the image), it appears to be closed and intact. The panel has a visible keyhole lock mechanism, which matches the description of the switch cover I'm looking for.\n\nThe switch cover appears to be properly closed and secured in its frame. There are no signs of it being open or displaced.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover3.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a square switch cover on the ceiling with a key lock to determine if it is opened or closed.\n\nLooking at the ceiling area in the image, I can see a square panel/cover on the white ceiling. This appears to be the switch cover in question. Upon examination, this square cover appears to be closed and in its proper position - I can see the outline of the panel but it is flush with the ceiling surface and not opened.\n\nThe square panel is visible on the ceiling and appears to be in the closed position, maintaining its intended security function.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover4.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling with a key lock to determine if it's opened or closed.\n\nLooking at the ceiling area in the image, I can see:\n- White ceiling panels with fluorescent lighting\n- Various ceiling-mounted equipment and fixtures\n- A square panel/cover visible on the ceiling with what appears to be a keyhole\n\nExamining the square switch cover on the ceiling, it appears to be closed and in its proper position. The cover is flush with the ceiling surface and shows no signs of being opened or displaced.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover5.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling with a key lock to determine if it's opened or closed.\n\nLooking at the image, I can see the ceiling area of what appears to be a train interior. There is a white/light colored ceiling with fluorescent lighting, handrail hooks, and ventilation grilles. \n\nIn the center-upper portion of the image, I can observe what appears to be a square-shaped panel or cover on the ceiling. This panel appears to be in a closed position - it's flush with the ceiling surface and shows no signs of being opened or displaced.\n\nThe switch cover with the key lock mechanism appears to be present and properly closed, maintaining its intended position on the ceiling.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover6.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train door control panel area to determine if a switch cover on the ceiling with a key lock is opened or closed.\n\nLooking at the image, I can see:\n1. Train doors on the left side\n2. A control panel mounted on the white pillar/column between the doors\n3. Purple/lavender colored seating on the right\n4. The ceiling area above\n\nExamining the control panel on the pillar, I can see what appears to be a square-shaped panel/cover with a key lock mechanism. The panel appears to be closed and intact - I can see the green indicator lights and the panel housing looks properly secured.\n\nThere is no visible evidence of an opened switch cover in this image. The control panel appears to be in its normal, closed position with the cover secured.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover7.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling that should be closed.\n\nLooking at the ceiling area of the train, I can see:\n- Fluorescent lighting panels\n- A digital display showing \"Welcome to SBS Transit\"\n- Ventilation grilles\n- A horizontal rail/bar running across the ceiling\n- White ceiling panels\n\nOn the right side of the image, I can see what appears to be a square panel or cover on the ceiling that appears to be open or missing, revealing a dark opening or recess. This matches the description of a switch cover that should be closed but is currently open.\n\n{'verdict': 'defect'}"
+  },
+  "not_opened_switch_cover8.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train ceiling for a square switch cover with a key lock to determine if it's opened or closed.\n\nLooking at the image, I can see the ceiling of a train car with fluorescent lighting panels. There is a square panel visible on the ceiling that appears to be a switch cover with what looks like a key lock mechanism.\n\nExamining this switch cover carefully, it appears to be in its closed position - the panel is flush with the ceiling and properly seated in its frame. There are no visible gaps or signs that it has been opened.\n\n{'verdict': 'non-defect'}"
+  },
+  "not_opened_switch_cover9.jpg": {
+    "status": "success",
+    "result": "I need to inspect the ceiling area for a square-shaped switch cover with a key lock to determine if it's opened or closed.\n\nLooking at the image, I can see the ceiling of what appears to be a train car interior. There are various elements visible on the ceiling including what appears to be lighting fixtures and panels. However, I cannot clearly identify a square switch cover with a key lock that is in an opened position.\n\nThe ceiling appears to have its panels and covers in their normal closed positions. There is no obvious open switch cover visible that would indicate a defect condition.\n\nBased on my inspection of the visible ceiling area, I do not see evidence of an opened switch cover.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover1.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling with a key lock to determine if it's opened or closed.\n\nLooking at the ceiling area in the image, I can see a square-shaped panel/cover on the ceiling. This appears to be the switch cover in question. Upon examination, the cover appears to be in its closed position - it is flush with the ceiling and properly secured.\n\nI don't see any evidence of the switch cover being opened or displaced from its normal closed position. The panel appears intact and properly positioned.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover10.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling that should be closed.\n\nLooking at the ceiling area in the image, I can see:\n- Fluorescent lighting fixtures\n- Various ceiling panels and conduits\n- A circular opening/hole visible in the ceiling on the left side of the image\n\nThe circular opening in the ceiling appears to be where a cover should be present but is missing or opened. This matches the criteria for a defect - an opened switch cover that should be closed.\n\n{'verdict': 'defect'}"
+  },
+  "opened_switch_cover2.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train door control panels to determine if a specific switch cover on the ceiling with a key lock is opened.\n\nLooking at the image, I can see:\n1. Train doors on the left side\n2. Purple/lavender colored seating on the right\n3. The ceiling area above the doors\n4. A square-shaped panel/cover visible on the ceiling near the door area\n5. This panel appears to be closed and intact\n\nThe switch cover on the ceiling appears to be present and in the closed position. I don't see any evidence of an opened switch cover with a key lock exposed or hanging open.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover3.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a square switch cover on the ceiling with a key lock to determine if it is opened or closed.\n\nLooking at the ceiling area of the train, I can see:\n- A horizontal rail/pole running across\n- Fluorescent lighting fixtures\n- A digital display showing \"Welcome to SBS Transit\"\n- Various ceiling panels and vents\n\nI can observe what appears to be a square panel or cover on the ceiling. Examining the ceiling carefully, I can see a square-shaped panel that appears to be in its normal closed position. There is no visible opening or gap that would indicate the switch cover is open.\n\nAll visible ceiling panels and covers appear to be properly closed and secured.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover4.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train door control panels for an opened switch cover on the ceiling with a key lock.\n\nLooking at the image, I can see:\n1. Train doors with windows on the left side\n2. A ceiling area above the doors\n3. Purple/lavender colored seating on the right\n4. Various panels and fixtures on the ceiling and walls\n\nExamining the ceiling area carefully, I can see what appears to be a square switch cover/panel on the ceiling above the door area. The panel appears to be closed and intact - I can see it mounted flush with the ceiling surface.\n\nThere is no evidence of an opened switch cover in this image. The ceiling-mounted panels visible appear to be properly closed.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover5.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a switch cover on the ceiling with a key lock to determine if it's opened or closed.\n\nLooking at the ceiling area of the train, I can see:\n- Fluorescent lighting fixtures\n- A digital display showing \"Welcome to SBS Transit\"\n- Handrail hooks/grips hanging from the ceiling\n- Various panels and fixtures on the ceiling\n\nI can observe what appears to be a square-shaped panel or cover on the ceiling. Examining the ceiling panels carefully, they appear to be in their normal closed position. I don't see any switch cover that is visibly opened or displaced from its normal position.\n\nAll visible ceiling panels and covers appear to be properly closed and secured.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover6.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train door control panels to determine if a specific switch cover on the ceiling with a key lock is opened.\n\nLooking at the image, I can see:\n1. The ceiling area of a train car with fluorescent lighting\n2. A digital display showing \"Welcome to SBS Transit\"\n3. Train doors below\n4. Various panels and fixtures on the ceiling\n\nExamining the ceiling area carefully, I can see what appears to be a square panel/cover on the ceiling (visible in the upper left portion of the image). There also appears to be a circular element nearby. However, I need to determine if there's a switch cover with a key lock that is in an opened state.\n\nFrom what I can observe in the image, the ceiling panels appear to be in their normal closed positions. I don't see any obvious open switch covers with exposed mechanisms or a cover that has been removed or left ajar.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover7.jpg": {
+    "status": "success",
+    "result": "I need to inspect the train door control panel area for an opened switch cover on the ceiling.\n\nLooking at the image, I can see the ceiling area above the train doors. There is a white panel/cover on the ceiling, and I can observe what appears to be an opening or gap in the ceiling panel - there's a dark square/rectangular opening visible in the white ceiling panel area.\n\nThis opening appears to be where a switch cover should be closed, but it is currently open, exposing a dark cavity or compartment above.\n\nBased on the defect criteria that states \"The designated switch cover is opened\" constitutes a defect, and observing what appears to be an open switch cover panel in the ceiling:\n\n{'verdict': 'defect'}"
+  },
+  "opened_switch_cover8.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a square-shaped switch cover on the ceiling with a key lock to determine if it is opened or closed.\n\nLooking at the ceiling area in the image, I can see what appears to be a dark rectangular/square panel or cover on the ceiling. This appears to be the switch cover in question. From what I can observe, the cover appears to be in place and closed - I don't see any obvious signs of it being opened or displaced.\n\nThe panel on the ceiling appears intact and properly positioned, with no visible gaps or signs of being ajar.\n\n{'verdict': 'non-defect'}"
+  },
+  "opened_switch_cover9.jpg": {
+    "status": "success",
+    "result": "I need to inspect the image for a square switch cover on the ceiling with a key lock to determine if it's opened or closed.\n\nLooking at the image, I can see a ceiling-mounted panel system. There is a square switch cover visible on the ceiling with what appears to be a key lock. The cover appears to be closed and properly secured in its position.\n\nThe switch cover is:\n- Present on the ceiling\n- Square in shape\n- Has a key lock visible\n- Appears to be in the closed position\n\nBased on the defect criteria (switch cover is opened) and what I observe in the image (switch cover is closed), this is a non-defect condition.\n\n{'verdict': 'non-defect'}"
+  }
+}

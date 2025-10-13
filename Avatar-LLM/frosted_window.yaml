@@ -1,0 +1,24 @@
+frosted_window:
+    name: "Frosted Window"
+    directory: "./frosted_window"
+    prompt: |
+      Examine subway car windows and doors to identify frosting, fogging, or opacity issues.
+      
+      DEFECT indicators:
+      - Windows or glass doors with visible frosting, fogging, or condensation
+      - Cloudy, hazy, or opaque glass surfaces
+      - Reduced visibility through any glass panels
+      - White or milky appearance on windows/doors
+
+      NON-DEFECT indicators:
+      - All windows and glass doors are clear and transparent
+      - No fogging, frosting, or condensation visible
+      - Clean, see-through glass surfaces throughout
+
+      Focus areas:
+      - Train car windows (side windows)
+      - Glass door panels
+      - Any transparent surfaces
+      
+      Output only the final verdict in the following format: 
+      {'verdict': 'defect'} or {'verdict': 'non-defect'}

@@ -1,0 +1,82 @@
+{
+  "defect.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "defect1.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "defect2.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "defect3.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "defect4.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "defect5.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "defect6.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "defect7.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "defect8.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "defect9.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_def.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_def1.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_def2.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_def3.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_def4.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_def5.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_def6.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'non-defect'}"
+  },
+  "non_def7.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_def8.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  },
+  "non_def9.jpg": {
+    "status": "success",
+    "result": "{'verdict': 'defect'}"
+  }
+}

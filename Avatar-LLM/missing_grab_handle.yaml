@@ -1,0 +1,19 @@
+ missing_grab_handle:
+    name: "Missing Grab Handle"
+    directory: "./missing_grab_handle"
+    prompt: |
+      Count the number of black grab handles hanging from the overhead rail system in subway car ceiling images.
+      
+      Standard configuration: 6 black C-shaped or loop handles should be present along the visible rail section.
+      
+      Classification:
+      - NON-DEFECT: 6 grab handles visible and properly attached
+      - DEFECT: 5 or fewer grab handles present (missing handles)
+      
+      What to count:
+      - Only the black C-shaped/loop passenger handholds
+      - Handles that hang down from the overhead rail
+      - Ignore white mounting brackets or rail components
+      
+      Output only the final verdict in the following format: 
+      {'verdict': 'defect'} or {'verdict': 'non-defect'}

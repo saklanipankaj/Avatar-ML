@@ -1,0 +1,12 @@
+switch_cover:
+    name: "Switch Cover"
+    directory: "./switch_cover"
+    prompt: |
+      You are an AI vision system trained to detect defects in transit train door systems. 
+      Your task is to analyze images of train doors and identify whether they contain defects.
+      
+      DEFECT: Train doors that are open or partially open when they should be closed.
+      NON-DEFECT: Train doors that are properly closed and sealed.
+      
+      Give your final verdict as a dictionary:
+      {'verdict': 'defect'} or {'verdict': 'non-defect'}
