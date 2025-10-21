@@ -71,7 +71,7 @@ def main():
     # Available options: 'ceiling_panel', 'frosted_window', 'missing_grab_handle', 
     #                   'missing_lighting_panel', 'switch_cover'
     # ============================================
-    defect_name = "missing_lighting_panel"  # <-- Change this to process different defects
+    defect_name = "multi_class_frosted_window"  # <-- Change this to process different defects
     
     # Initialize pipeline
     pipeline = DefectDetectionPipeline()

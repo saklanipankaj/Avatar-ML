@@ -1,0 +1,42 @@
+{
+  "defect.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"switch_cover_opened\",\n  \"reason\": \"There is a visible open panel or cover on the white ceiling/wall area to the right of the 'Welcome to' display sign, showing a rectangular opening that appears to be an access panel that is not fully closed.\",\n  \"bbox\": [522, 287, 603, 357],\n  \"confidence\": 0.82\n}\n```"
+  },
+  "frosted_window1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The subway car interior appears clean and well-maintained. The doors, windows, grab handles, lighting panels, and wall surfaces are all intact and in normal condition. The 'Show you Care' signage is properly displayed, seating is clean, and no defects from the specified categories are visible.\",\n  \"bbox\": null,\n  \"confidence\": 0.93\n}\n```"
+  },
+  "missing_grab_handle1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The image shows a ceiling area of a subway car with grab handles/rails properly mounted and secured with cable ties. All components appear intact and clean with no visible defects such as missing panels, open covers, dirt accumulation, or frosted surfaces.\",\n  \"confidence\": 0.88\n}\n```"
+  },
+  "missing_lighting_panel1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The subway car interior appears clean and well-maintained. All visible components including doors, windows, ceiling panels, lighting fixtures, and grab handles are intact and properly installed. No dirt, missing panels, open covers, or other defects are evident.\",\n  \"confidence\": 0.88\n}\n```"
+  },
+  "non_def.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"switch_cover_opened\",\n  \"reason\": \"An electrical switch or panel cover is visibly open on the wall above the door, showing the panel door not fully closed.\",\n  \"bbox\": [227, 293, 311, 357],\n  \"confidence\": 0.87\n}\n```"
+  },
+  "non_frosted_window1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The image shows a subway car interior with clean surfaces, intact windows, properly closed doors, visible grab handles, and a 'Show You Care' poster. No dirt, missing components, open panels, or frosted windows are visible. All elements appear normal and intact.\",\n  \"confidence\": 0.95\n}\n```"
+  },
+  "non_missing_grab_handle1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The image shows a ceiling area of a subway car with electrical conduits, cables properly secured with cable ties, and mounting hardware. All components appear intact and properly installed with no visible defects such as missing panels, open covers, dirt accumulation, or missing handles.\",\n  \"confidence\": 0.88\n}\n```"
+  },
+  "non_missing_lighting_panel1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The subway car interior appears clean and well-maintained. Ceiling panels are intact, lighting fixtures are properly installed, grab handles are present, windows are clear, and no open covers or missing components are visible. The pink 'Shop You Care' poster is normal signage.\",\n  \"confidence\": 0.88\n}\n```"
+  },
+  "not_opened_switch_cover1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"switch_cover_opened\",\n  \"reason\": \"An access panel or cover on the ceiling/wall area appears to be open or missing, exposing the interior compartment. This is visible as a rectangular opening in the upper portion of the image.\",\n  \"bbox\": [245, 285, 335, 365],\n  \"confidence\": 0.87\n}\n```"
+  },
+  "opened_switch_cover1.jpg": {
+    "status": "success",
+    "result": "```json\n{\n  \"class\": \"non_defect\",\n  \"reason\": \"The image shows a subway train interior with doors, ceiling panels, signage, and control panels all appearing intact and properly closed. No visible dirt, missing components, open covers, frosted windows, or missing lighting panels are observed.\",\n  \"bbox\": null,\n  \"confidence\": 0.88\n}\n```"
+  }
+}
