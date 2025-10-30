@@ -7,7 +7,11 @@ DEFECT_DIRECTORIES = {
     "frosted_window": "./frosted_window", 
     "missing_grab_handle": "./missing_grab_handle",
     "missing_lighting_panel": "./missing_lighting_panel",
-    "switch_cover": "./switch_cover"
+    "switch_cover": "./switch_cover",
+    "multi_class": "./multi_class",
+    "multi_class_frosted_window": "./multi_class_frosted_window",
+    "shifted_grab_handle": "./shifted_grab_handle"
+
 }
 
 def get_directory_path(defect_name):
